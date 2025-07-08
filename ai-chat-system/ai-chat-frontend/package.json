@@ -1,0 +1,17 @@
+﻿{
+  "name": "ai-chat-frontend",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite": "^4.3.9"
+  }
+}
